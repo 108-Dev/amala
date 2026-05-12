@@ -1,0 +1,8 @@
+# Only track index.html and images/ — ignore everything else
+*
+
+# Re-allow the site files
+!index.html
+!images/
+!images/**
+!.gitignore
